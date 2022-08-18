@@ -10,7 +10,7 @@ h1{
 
 }
 
-.listanomes{
+ol li{
     text-align: center ;
     font-size: 30px;
     background: rgba(234, 238, 5, 0.377);
