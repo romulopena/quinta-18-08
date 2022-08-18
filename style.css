@@ -1,3 +1,15 @@
+.t1{
+    text-align: center;
+    background-color: aqua;
+
+}
+
+.t2{
+    text-align: center;
+    
+    background: gray;
+    font-size: 25px;
+}
 h1{
     text-align: center;
     border: solid;
@@ -10,10 +22,4 @@ h2{
     color: red;
     font-weight: bold;
 
-}
-ol li{
-    
-    text-align:center;
-    background: gray;
-    font-size: 25px;
 }
