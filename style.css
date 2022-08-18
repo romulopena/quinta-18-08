@@ -2,3 +2,17 @@
     border: solid;
     border-radius: 10px;
 }
+
+h1{
+    text-align: center;
+    background: rgba(76, 40, 175, 0.377);
+    color: crimson;
+
+}
+
+.listanomes{
+    align-items: center ;
+    font-size: 30px;
+    background: rgba(234, 238, 5, 0.377);
+    color: black;
+}
