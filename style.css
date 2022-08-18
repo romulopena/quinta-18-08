@@ -11,6 +11,8 @@ h2{
 
 }
 ol li{
+    
+    text-align:center;
     background: gray;
     font-size: 25px;
 }
