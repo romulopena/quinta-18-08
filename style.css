@@ -11,11 +11,8 @@ h1{
 }
 
 .listanomes{
-    align-items: center ;
+    text-align: center ;
     font-size: 30px;
     background: rgba(234, 238, 5, 0.377);
-    color: black;
-}
-.lista-centralizada{
-    text-align: center;
+    color: blue;
 }
