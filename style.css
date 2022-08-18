@@ -16,3 +16,6 @@ h1{
     background: rgba(234, 238, 5, 0.377);
     color: black;
 }
+.lista-centralizada{
+    align-items: center;
+}
