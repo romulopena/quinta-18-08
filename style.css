@@ -10,6 +10,8 @@ h1{
 
 }
 
-.lista-centralizada{
+ol{
+    text-align: center;
+}
 
 }
