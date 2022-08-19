@@ -11,7 +11,7 @@ h1{
 }
 
 .lista-centralizada{
-    text-align: center ;
+    list-style-position: center ;
     font-size: 30px;
     background: rgba(234, 238, 5, 0.377);
     color: blue;
